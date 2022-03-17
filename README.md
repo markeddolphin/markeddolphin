@@ -5,9 +5,9 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /></p>
   
-- 🌱 I’m currently spare time to learn Unity, Maya
+- 🌱 I’m currently spare time to learn Unity, Maya. to make what? I don't know. 😆
 - 🤝 Looking forward to more partnership with talents
-- 🥅 2022 Goals: Contribute more to building web3 infra over the world.
+- 🥅 2022 Goals: Contribute more to building web3 infra over the internet.
 - ⚡ Fun fact :- I like running. 🏃‍♂🚶‍♂️🏃‍♂️🚶‍♂️🏃‍♂️
 
 ## Languages and Tools
