@@ -2,7 +2,7 @@
 
 <h1 align="center">✨ I came, I saw, I conquered ✨</h1>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"><img src="https://komarev.com/ghpvc/?username=millicare&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /></p>
   
 - 🌱 I’m currently spare time to learn Unity, Maya. to make what? I don't know. 😆
