@@ -20,12 +20,6 @@
     </tr>
 </table>
 
-
-## Statistics
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=millicare&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=millicare&theme=github_dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=millicare&&show_icons=true&theme=github_dark)
-
 <p align='center'>
   <a href="https://github.com/millicare?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/millicare"/>
