@@ -24,14 +24,12 @@
     </tr>
 </table>
 
-<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=millicare&&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=millicare&theme=tokyonight" alt="mystreak"/>
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=millicare&layout=compact&theme=tokyonight&hide=html&hide_border=true&card_width=330&langs_count=3)
 
-<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
