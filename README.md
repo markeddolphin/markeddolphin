@@ -26,12 +26,9 @@
 
 
 ## Statistics
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=millicare&layout=compact&theme=tokyonight&hide=html&hide_border=true&card_width=330&langs_count=3)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=millicare&&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=millicare&theme=tokyonight" alt="mystreak"/>
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=millicare&layout=compact&theme=tokyonight&hide=html&hide_border=true&card_width=330&langs_count=3)
-
-
-
 
 <p align='center'>
   <a href="https://github.com/millicare?tab=repositories&sort=stargazers">
