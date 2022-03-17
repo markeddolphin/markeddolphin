@@ -2,6 +2,15 @@
 
 <h1 align="center">✨ I came, I saw, I conquered ✨</h1>
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /></p>
+  
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **adampithewan@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
 ## Skills
 <table>
    <tr>
