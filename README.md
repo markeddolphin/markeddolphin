@@ -37,4 +37,4 @@
 
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-sava.grujic.thunder@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sava.grujic.thunder@gmail.com)](j.nicolas.milli@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-millicare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/millicare)](https://t.me/yeyootw_976468)
+[![Telegram Badge](https://img.shields.io/badge/-millicare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/millicare)](https://t.me/millicare)
