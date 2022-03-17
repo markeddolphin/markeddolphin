@@ -2,16 +2,15 @@
 
 <h1 align="center">✨ I came, I saw, I conquered ✨</h1>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"><img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /></p>
   
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently spare time to learn Unity, Maya
+- 🤝 Looking forward to more partnership with talents
+- 🥅 2022 Goals: Contribute more to building web3 infra over the world.
+- ⚡ Fun fact :- I like running. 🏃‍♂🚶‍♂️🏃‍♂️🚶‍♂️🏃‍♂️
 
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
-## Skills
+## Languages and Tools
 <table>
    <tr>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="android" height="45"></td>
