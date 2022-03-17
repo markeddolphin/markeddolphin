@@ -2,10 +2,6 @@
 
 <h1 align="center">✨ I came, I saw, I conquered ✨</h1>
 
-## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-sava.grujic.thunder@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sava.grujic.thunder@gmail.com)](j.nicolas.milli@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-millicare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/millicare)](https://t.me/yeyootw_976468)
-
 ## Skills
 <table>
    <tr>
@@ -38,3 +34,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/millicare?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
+
+## Contact me : 
+[![Gmail Badge](https://img.shields.io/badge/-sava.grujic.thunder@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sava.grujic.thunder@gmail.com)](j.nicolas.milli@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-millicare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/millicare)](https://t.me/yeyootw_976468)
