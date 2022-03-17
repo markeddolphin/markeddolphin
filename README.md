@@ -24,7 +24,7 @@
 ## Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=millicare&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=millicare&theme=github_dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=millicare&&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=millicare&&show_icons=true&theme=github_dark)
 
 <p align='center'>
   <a href="https://github.com/millicare?tab=repositories&sort=stargazers">
