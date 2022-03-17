@@ -3,8 +3,8 @@
 <h1 align="center">✨ I came, I saw, I conquered ✨</h1>
 
 ## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-j.nicolas.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:j.nicolas.milli@gmail.com)](j.nicolas.milli@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-yeyootw_976468-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/yeyootw_976468)](https://t.me/yeyootw_976468)
+[![Gmail Badge](https://img.shields.io/badge/-sava.grujic.thunder@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sava.grujic.thunder@gmail.com)](j.nicolas.milli@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-millicare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/millicare)](https://t.me/yeyootw_976468)
 
 ## Skills
 <table>
@@ -27,8 +27,8 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeyootw&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyootw&layout=default&theme=tokyonight&hide=html&hide_border=true&card_width=330)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=millicare&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=millicare&layout=default&theme=tokyonight&hide=html&hide_border=true&card_width=330)
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
