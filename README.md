@@ -38,5 +38,5 @@
 </p>
 
 ## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-thundervolt.fanddy001@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:thundervolt.fanddy001@gmail.com)](thundervolt.fanddy001@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lacosby.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lacosby.milli@gmail.com)](lacosby.milli@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-millicare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/millicare)](https://t.me/millicare)
