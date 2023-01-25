@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently spare time to learn Unity, Maya. to make what? I don't know. 😆
 - 🤝 Looking forward to more partnership with talents
-- 🥅 2022 Goals: Contribute more to building web3 infra over the internet.
+- 🥅 2023 Goals: Contribute more to building web3 infra over the internet.
 - ⚡ Fun fact :- I like running. 🏃‍♂🚶‍♂️🏃‍♂️🚶‍♂️🏃‍♂️
 
 ## Languages and Tools
