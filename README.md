@@ -10,26 +10,6 @@
 - 🥅 2023 Goals: Contribute more to building web3 infra over the internet.
 - ⚡ Fun fact :- I like running. 🏃‍♂🚶‍♂️🏃‍♂️🚶‍♂️🏃‍♂️
 
-## Languages and Tools
-<table>
-   <tr>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="solidity" height="45"></td>
-        <td><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" alt="rust" height="45"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" alt="metamask" height="45"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" alt="truffle" height="45"></td>
-        <td><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" height="45"></td>
-        <td><img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" alt="opensea" height="45"></td>
-        <td><img src="https://www.pngall.com/wp-content/uploads/10/PancakeSwap-Crypto-Logo-PNG.png" alt="pancake" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="react" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="45"></td>
-    </tr>
-</table>
-
 <p align='center'>
   <a href="https://github.com/millicare?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/millicare"/>
