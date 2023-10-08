@@ -13,4 +13,4 @@
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-lacosby.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lacosby.milli@gmail.com)](lacosby.milli@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-millicare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/millicare)](https://t.me/millicare)
-[![Discord Badge](https://img.shields.io/badge/-Kei\u00232353-blue?style=flat-roundedrectangle&logo=discord&logoColor=white)](Kei#2353)
+[![Discord Badge](https://img.shields.io/badge/-Kei2353-blue?style=flat-roundedrectangle&logo=discord&logoColor=white)](Kei#2353)
