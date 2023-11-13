@@ -12,4 +12,4 @@
 
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-lacosby.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lacosby.milli@gmail.com)](lacosby.milli@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-los7m-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/los7m)](https://t.me/los7m)
+[![Telegram Badge](https://img.shields.io/badge/-lac0sby-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/lac0sby)](https://t.me/lac0sby)
