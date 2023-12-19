@@ -11,5 +11,5 @@
 - ⚡ Fun fact :- I like running. 🏃‍♂🚶‍♂️🏃‍♂️🚶‍♂️🏃‍♂️
 
 ## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-defibizzylos@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:defibizzylos@gmail.com)](defibizzylos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lacosby.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lacosby.milli@gmail.com)](lacosby.milli@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-lac0sby-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/lac0sby)](https://t.me/lac0sby)
