@@ -7,8 +7,8 @@
   
 - 🌱 I’m currently spare time to learn Unity, Maya. to make what? I don't know. 😆
 - 🤝 Looking forward to more partnership with talents
-- 🥅 2023 Goals: Contribute more to building web3 infra over the internet.
-- ⚡ Fun fact :- I like running. 🏃‍♂🚶‍♂️🏃‍♂️🚶‍♂️🏃‍♂️
+- 🥅 2024 Goals: Contribute more to building web3 infra over the internet.
+- ⚡ Fun fact :- I like running and fitness. 🏃‍♂🚶‍♂️🏃‍♂️🚶‍♂️🏃‍♂️
 
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-lacosby.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lacosby.milli@gmail.com)](lacosby.milli@gmail.com)
