@@ -4,12 +4,20 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=millicare&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /></p>
-  
-- 🌱 I’m currently spare time to learn Unity, Maya. to make what? I don't know. 😆
-- 🤝 Looking forward to more partnership with talents
-- 🥅 2024 Goals: Contribute more to building web3 infra over the internet.
-- ⚡ Fun fact :- I like running and fitness. 🏃‍♂🚶‍♂️🏃‍♂️🚶‍♂️🏃‍♂️
+My experiences cover
+
+- 🌱 Languages
+> Solidity, Rust, C/C++, C#, TypeScript, JavaScript, PHP, Java, Python, Ruby, Elixir, Liquid, Go, etc
+
+- 🥅 Blockchain development
+> Smart Contract, DeFi, NFT in Ethereum, Solana, Avax, Polygon, Polkadot, BSC, SubGraph, Web3js, Etherjs, Ganache, Remix, Tenderly, HardHat, etc
+
+- 🤝 Web FullStack and Desktop App Development
+> MEAN/MERN Stack, Gatsby, WordPress, MySQL/PostgreSQL/Oracle DB, etc
+
+- ⚡ Game development
+> Cocos2dx/Cocos3dx, BabylonJS, Panda3D, Lua, Unity, etc
 
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-lacosby.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lacosby.milli@gmail.com)](lacosby.milli@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-lac0sby-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/lac0sby)](https://t.me/lac0sby)
+[![Discord Badge](https://img.shields.io/badge/-markeddolphin-blue?style=flat-roundedrectangle&logo=discord&logoColor=white&link=https://discordapp.com/users/956951762277900298)](https://discordapp.com/users/956951762277900298)
