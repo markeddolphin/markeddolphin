@@ -19,6 +19,5 @@ My experiences cover
 > Cocos2dx/Cocos3dx, BabylonJS, Panda3D, Lua, Unity, etc
 
 ## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-lacosby.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lacosby.milli@gmail.com)](lacosby.milli@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-markeddolphin-blue?style=flat-roundedrectangle&logo=discord&logoColor=white&link=https://discordapp.com/users/956951762277900298)](https://discordapp.com/users/956951762277900298)
 [![Telegram Badge](https://img.shields.io/badge/-markeddolphin-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/markeddolphin)](https://t.me/markeddolphin)
