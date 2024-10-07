@@ -7,17 +7,22 @@
 My experiences cover
 
 - 🌱 Languages
-> Solidity, Rust, C/C++, C#, TypeScript, JavaScript, PHP, Java, Python, Ruby, Elixir, Liquid, Go, etc
+> Solidity, Rust, C/C++, C#, TS/JS, PHP, Java, Python, Ruby, Elixir, Liquid, Go
 
 - 🥅 Blockchain development
-> Smart Contract, DeFi, NFT in Ethereum, Solana, Avax, Polygon, Polkadot, BSC, SubGraph, Web3js, Etherjs, Ganache, Remix, Tenderly, HardHat, etc
+> Smart Contract, DeFi, NFT on EVM, Solana, Polkadot, BSC, Tron, Ton
+> Bridge, IBC, Substrate
+> SubGraph and IPFS
+> Web3js, Etherjs, Ganache, Remix, Tenderly, HardHat
 
-- 🤝 Web FullStack and Desktop App Development
-> MEAN/MERN Stack, Gatsby, WordPress, MySQL/PostgreSQL/Oracle DB, etc
+- 🤝 Web FullStack and App Development
+> MEAN/MERN Stack, WordPress, MySQL/PostgreSQL/Oracle DB,
+> .NET, SDK/DDK, Qt
+> Android - Java, Kotlin, iOS - Swift
 
 - ⚡ Game development
-> Cocos2dx/Cocos3dx, BabylonJS, Panda3D, Lua, Unity, etc
+> Cocos2dx/Cocos3dx, BabylonJS, Panda3D, Lua,
+> Unity, Godot
 
 ## Contact me : 
 [![Discord Badge](https://img.shields.io/badge/-markeddolphin-blue?style=flat-roundedrectangle&logo=discord&logoColor=white&link=https://discordapp.com/users/956951762277900298)](https://discordapp.com/users/956951762277900298)
-[![Telegram Badge](https://img.shields.io/badge/-markeddolphin-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/markeddolphin)](https://t.me/markeddolphin)
